@@ -37,12 +37,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
-  <a href="https://www.cumulocity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://via.placeholder.com/40" alt="Cumulocity IoT Cloud" width="40" height="40"/> 
-</a>
-<a href="https://www.wikipedia.org/wiki/Cloud_computing" target="_blank" rel="noreferrer"> 
-    <img src="https://via.placeholder.com/40" alt="Cloud" width="40" height="40"/> 
-</a>
 
 </p>
 
