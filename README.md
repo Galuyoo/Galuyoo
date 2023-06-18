@@ -31,10 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
       <!-- Arduino -->
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/>
-    </a>
-
-    <!-- PHP -->
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    </a>  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
 
