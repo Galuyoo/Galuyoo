@@ -36,22 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>    <a href="https://mosquitto.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://mosquitto.org/images/mosquitto.svg" alt="mosquitto" width="40" height="40"/> 
-    </a>
-    <a href="https://thin-edge.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://via.placeholder.com/40" alt="thin-edge" width="40" height="40"/> 
-    </a>
-    <a href="https://www.iec.ch/about/history/overview/plc" target="_blank" rel="noreferrer"> 
-        <img src="https://via.placeholder.com/40" alt="PLC" width="40" height="40"/> 
-    </a>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://via.placeholder.com/40" alt="Canva" width="40" height="40"/> 
-    </a>
-    <a href="https://www.pandora.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://via.placeholder.com/40" alt="Pandora" width="40" height="40"/> 
-    </a>
-
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Galuyoo&show_icons=true&locale=en&layout=compact" alt="Glauyoo" /></p>
