@@ -38,25 +38,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-
-    <!-- Raspberry Pi -->
-    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+    </a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
-    </a>
-
-    <!-- MQTT (Mosquitto) (Icon unavailable in devicon or vectorlogo, using alternate image) -->
-    <a href="https://mosquitto.org/" target="_blank" rel="noreferrer">
+    </a>    <a href="https://mosquitto.org/" target="_blank" rel="noreferrer">
         <img src="https://mosquitto.org/images/mosquitto.svg" alt="mosquitto" width="40" height="40"/>
-    </a>
-
-    <!-- Thin-edge (Icon unavailable, added placeholder) -->
-    <a href="https://thin-edge.io/" target="_blank" rel="noreferrer">
+    </a>    <a href="https://thin-edge.io/" target="_blank" rel="noreferrer">
         <img src="https://via.placeholder.com/40" alt="thin-edge" width="40" height="40"/>
-    </a>
-
-    <!-- PLC (Icon unavailable, added placeholder) -->
-    <a href="https://www.iec.ch/about/history/overview/plc" target="_blank" rel="noreferrer">
+    </a>    <a href="https://www.iec.ch/about/history/overview/plc" target="_blank" rel="noreferrer">
         <img src="https://via.placeholder.com/40" alt="PLC" width="40" height="40"/>
     </a>
 
