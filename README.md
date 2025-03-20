@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D6C0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+SALAHEDDINE+CHOUIKH;Let%27s+create+awesome+projects!+ツ)
 
 
-- 🔭 I’m currently working on **expanding my programming skills and knowledge, especially in Web dev, and robotics.**
+- 🔭 I’m currently working on **expanding my programming skills and knowledge, especially in data science, and robotics.**
 
 - 🌱 I’m continuously learning **and improving my coding abilities.**
 
